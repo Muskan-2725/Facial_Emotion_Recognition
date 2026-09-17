@@ -31,11 +31,8 @@ Linear(128, num_classes)
 
 ## Dataset
 
-TODO: fill in — dataset (e.g. CK+), number of classes, split ratios.
+TODO: ck+ dataset from kaggle
 
-## Results
-
-TODO: fill in — accuracy / precision / recall / F1 from the training notebook.
 
 ## Repo structure
 
@@ -47,7 +44,7 @@ scaler.pkl                Fitted StandardScaler
 features.pkl              QIGA-selected feature indices
 labels.pkl                Class index -> emotion label mapping
 ck+/                      Dataset
-Images/                   TODO: describe contents
+Images/                   
 ```
 
 ## Running locally
